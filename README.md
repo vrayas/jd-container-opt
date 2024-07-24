@@ -14,6 +14,12 @@ Establishing Standard Quantity will ensure:​
  	enhanced labor efficiency​
 Explore various box orientations and stacking patterns to maximize volume utilization will enable John Deere to apply these optimized packing strategies across all SKUs in their system for enhanced operational efficiency.
 
+Using the Py3dbp Library​:
+
+	Handles 3D packing: Designed for complex three-dimensional packing challenges.​
+
+	Flexible for various shapes: Can manage a wide variety of shapes, adaptable to different use cases.​
+
 How run?
 
 Install python in your local. 
