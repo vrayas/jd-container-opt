@@ -1,5 +1,6 @@
 # jd-container-opt
 Context:
+
 John Deere’s Mattoon IL business unit is transitioning to a new warehouse management system.​ John Deere has tasked the JD Container Team to determine the Standard Quantity for SKUs in six storage containers.​
 
 Standard Quantity = the maximum number of boxes of a specific SKU that can fit into each of the six storage containers without overlap and within their size constraints.​
