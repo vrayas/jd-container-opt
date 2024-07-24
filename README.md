@@ -13,8 +13,5 @@ Open final -> jd_container_optimize.ipynb and run using python libraries.
         -> If you answer 'no' -- You need to enter the component id, length, width and high. 
 		
 Attached sample out puts of both packing_report1.html and packing_report2.html. 
-
-
-Branch WebAPP under this will launch browser version of the same application using Streamlit  [click here](s2syc97cbhpmmv4yxbxb7o.streamlit.app)
 	
 	
