@@ -30,7 +30,7 @@ Found on Main Branch (This is the branch which deals on delivering on the MVP so
 
 Found on Web App Branch:
 1) Code which populates the web app: https://github.com/vrayas/jd-container-opt/blob/WebApp/BinPacking/App.py
-2) Web app URL: 
+2) Web app URL: https://binpacking-h85ysor5ginzwbc5awp8ld.streamlit.app/
 
 How run?
 
