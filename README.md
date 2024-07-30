@@ -32,18 +32,9 @@ Found on Web App Branch:
 1) Code which populates the web app: https://github.com/vrayas/jd-container-opt/blob/WebApp/BinPacking/App.py
 2) Web app URL: https://binpacking-h85ysor5ginzwbc5awp8ld.streamlit.app/
 
-How run?
+## How can I run the Non Web App version of the project (The code found on the main branch)?
 
-Install python in your local. 
-
-Open final -> jd_container_optimize.ipynb and run using python libraries. 
-
- If you want to use custom dimention then answer 'Do you want to use custom package dimensions? (yes/no): yes'
- 
-	Then it will generate report based on the excel('Optimization Problem.xlsx)
-        
-	If you answer 'no' -- You need to enter the component id, length, width and high. 
-		
-Attached sample out puts of both packing_report1.html and packing_report2.html. 
-	
+1) Install python on your local machine. 
+2) Open final -> jd_container_optimize.ipynb and run using python libraries. 
+3) If you want to use custom dimensions, then answer 'Do you want to use custom package dimensions? (yes/no): yes'. If you answer no, you will need to enter a SKU found in the raw excel file that we received from John Deere : "Optimization Problem.xlsx"
 	
