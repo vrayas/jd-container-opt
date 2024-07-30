@@ -24,7 +24,7 @@ We are using a Python library called Py3dbp​. This library:
 
 ## Where can I find the various components of this project?
 We have created 2 branches in this GitHub Repository - One branch which houses the web application code, and another branch which houses the "MVP" code. Here are the locations of the following items:
-Found on Main Branch (This is the branch which deals on delivering on the MVP solution):
+Found on Main Branch (This is the branch which deals with delivering on the MVP solution):
 1) Code which populates the CSV which lists the standard quantities for all of our packages = https://github.com/vrayas/jd-container-opt/blob/main/final/jd_container_optimize_final.ipynb
 2) Code which generates charts for stacking patterns, standard quantites, % of volumne utilzed etc... = https://github.com/vrayas/jd-container-opt/blob/main/final/jd_container_optimize.ipynb
 
