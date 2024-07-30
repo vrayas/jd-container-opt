@@ -22,6 +22,16 @@ We are using a Python library called Py3dbp​. This library:
 1) Handles 3D packing: Designed for complex three-dimensional packing challenges.​
 2) Flexible for various shapes: Can manage a wide variety of shapes, adaptable to different use cases.​
 
+## Where can I find the various components of this project?
+We have created 2 branches in this GitHub Repository - One branch which houses the web application code, and another branch which houses the "MVP" code. Here are the locations of the following items:
+Found on Main Branch (This is the branch which deals on delivering on the MVP solution):
+1) Code which populates the CSV which lists the standard quantities for all of our packages = https://github.com/vrayas/jd-container-opt/blob/main/final/jd_container_optimize_final.ipynb
+2) Code which generates charts for stacking patterns, standard quantites, % of volumne utilzed etc... = https://github.com/vrayas/jd-container-opt/blob/main/final/jd_container_optimize.ipynb
+
+Found on Web App Branch:
+1) Code which populates the web app: https://github.com/vrayas/jd-container-opt/blob/WebApp/BinPacking/App.py
+2) Web app URL: 
+
 How run?
 
 Install python in your local. 
