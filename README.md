@@ -9,18 +9,18 @@ Establishing the Standard Quantity for each of the 6 containers will ensure:​
 2) maximized storage density ​
 3) enhanced labor efficiency​
   
-The end goal for this project:
+## The end goal for this project:
 To create an excel document which lists out every one of John Deere's SKU's , along with the maxiumum number of SKU's that can fit into the 6 different containers that we can pack the SKUs in. 
 
-How the JD Optimization Team went above and beyond:
+## How the JD Optimization Team went above and beyond:
 1) Firstly, we delivered on the excel document ask. We have created an excel document which lists out all SKU's , along with the standard quantities for each of the 6 containers.
 2) On top of just providing an excel document with the standard quantities, we provided the John Deere team with code , which will output charts of how the SKU'S should be stacked/positioned within each of the 6 containers - This code takes in input from the user (what SKU they want to analyze) and then outputs a PDF document with the stacking patten (In chart form), standard quantity, and % utilization for each of the 6 containers - We then go ahead and provide a reccomendation on what container to use for a particular SKU, based on the % utilization metric.
 3) Finally, we created a web app, which essentially provides all the outputs listed in bullet point number 2 , but this now utilizes a better end user interface.
  
-What logic are we using to come up with these optimized stacking patterns for the John Deere Team?
+## What logic are we using to come up with these optimized stacking patterns for the John Deere Team?
 We are using a Python library called Py3dbp​. This library:
 1) Handles 3D packing: Designed for complex three-dimensional packing challenges.​
-2)Flexible for various shapes: Can manage a wide variety of shapes, adaptable to different use cases.​
+2) Flexible for various shapes: Can manage a wide variety of shapes, adaptable to different use cases.​
 
 How run?
 
