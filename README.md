@@ -22,6 +22,10 @@ We are using a Python library called Py3dbp​. This library:
 1) Handles 3D packing: Designed for complex three-dimensional packing challenges.​
 2) Flexible for various shapes: Can manage a wide variety of shapes, adaptable to different use cases.​
 
+## Why do we have 2 branches on this repository? And Not just all files under the main branch?
+The reason for this is because the main branch is what the John Deere internal development teams are looking at, to employ into their existing infrastructure. The web app portion of this project is purely for school purposes, and wont need to be mantained after this class. Therefore, we dont want to get the JD internal development teams confused when they see code for a web application. 
+Please note, the web application is also not meant to be stood up for a long time - we are currently using a free account and are limited to 1GB of space usage for the life of the application. Therefore, this is obvioulsy not feasible for a company like JD going forward.
+
 ## Where can I find the various components of this project?
 We have created 2 branches in this GitHub Repository - One branch which houses the web application code, and another branch which houses the "MVP" code. Here are the locations of the following items:
 Found on Main Branch (This is the branch which deals with delivering on the MVP solution):
@@ -37,3 +41,4 @@ Found on Web App Branch:
 1) Install python on your local machine. 
 2) Open final -> jd_container_optimize.ipynb and run using python libraries. 
 3) If you want to use custom dimensions, then answer 'Do you want to use custom package dimensions? (yes/no): yes'. If you answer no, you will need to enter a SKU found in the raw excel file that we received from John Deere : "Optimization Problem.xlsx"
+	
